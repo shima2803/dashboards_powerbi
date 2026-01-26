@@ -1,4 +1,4 @@
-# 📊 Portfólio de Dashboards – Power BI
+# 📊 Portfólio de Dashboards – Power B
 
 Bem-vindo(a) ao meu repositório de dashboards!
 Aqui compartilho alguns dos projetos que desenvolvi tanto para estudo e aprimoramento técnico quanto para apoiar processos reais do meu dia a dia de trabalho.
